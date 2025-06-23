@@ -1,1 +1,1 @@
-<img src="https://imgur.com/EQVqdF3" alt="lightcode">
+<img src="https://i.imgur.com/EQVqdF3.gif" alt="lightcode">
